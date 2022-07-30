@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "appfirebase-9a467": {
+      "hosting": {
+        "angularAppContact": [
+          "appfirebase-9a467"
+        ]
+      }
+    },
+    "appcontact-f6d11": {
+      "hosting": {
+        "angularAppContact": [
+          "appcontact-f6d11"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "appcontact-f6d11"
+  }
+}
